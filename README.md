@@ -9,3 +9,4 @@
 * cambiar ramas
 * gestion de ramas
 * restaurar cambios 
+* Resolver conflictos
