@@ -10,3 +10,6 @@
 * gestion de ramas
 * restaurar cambios 
 * Resolver conflictos
+* Trabajo colaborativo 3
+* Test
+* Fin Git
